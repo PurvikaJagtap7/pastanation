@@ -4,7 +4,7 @@ node_modules/
 # Temporary files
 *.tmp
 *.temp
-
+dist
 # Logs
 logs/
 *.log
